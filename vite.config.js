@@ -1,4 +1,4 @@
 export default {
   // config options
-  base: "/kaloumbi-clone/"
+  base: "/quizz-micode-clone/"
 };
